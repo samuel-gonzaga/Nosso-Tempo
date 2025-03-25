@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Nosso Tempo",
+    "slug": "Love",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#e84675"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#e84675"
+      },
+      "package": "com.shog2006.Love"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3aad5bd0-dd7b-4460-b482-6f86a1d07386"
+      }
+    }
+  }
+}
